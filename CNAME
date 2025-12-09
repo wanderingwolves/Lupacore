@@ -1,1 +1,2 @@
-lupacore.com
+git commit -m "Final removal of CNAME file - clean codespace"
+git push
